@@ -4,3 +4,8 @@ Baladwb
 
 Test case nr.2
 Descriere
+
+Test case nr.3 
+DEscriere
+Priority:Low
+Test case type:BBT
