@@ -1,0 +1,5 @@
+Feature:Urmarire statut comanda
+Scenario 1:Utilizatorul vede pagina de urmarire a comenzii
+Given:Utilizatorul se afla pe pagina de comenzi
+When:Utilizatorul da click pe un produs
+Then:Utilizatorul ar trebui sa fie redirectionat catre pagina  de urmarire a comenzii 
