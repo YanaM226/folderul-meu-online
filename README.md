@@ -1,2 +1,3 @@
 Test case nr.1
-Descriere:Utilizatorul nu ppoate sa se elogheze 
+Descriere:Utilizatorul nu poate sa se logheze 
+Baladwb
